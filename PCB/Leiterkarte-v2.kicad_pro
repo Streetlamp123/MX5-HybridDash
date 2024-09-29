@@ -446,7 +446,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "Hybrid_Dash"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {
@@ -713,10 +715,6 @@
     [
       "7159fc5a-6328-470f-acd9-3e0a0aa6e60c",
       "Root"
-    ],
-    [
-      "387d92f2-3727-45df-9c4d-1355459e23fb",
-      "MCU"
     ]
   ],
   "text_variables": {}
